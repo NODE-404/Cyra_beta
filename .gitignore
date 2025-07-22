@@ -1,0 +1,46 @@
+# Pythonバーチャル環境全般
+venv/
+env/
+ENV/
+credentials/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.json
+
+# Windows DLLなど
+*.dll
+*.lib
+*.pdb
+
+# Sudachi辞書ファイル
+*.dic
+
+# Rustバイナリ/ライブラリ
+*.so
+*.dylib
+chromadb_rust_bindings/
+*.pyd
+
+# log, DB, 大きなバイナリ
+*.log
+*.db
+*.sqlite3
+
+# モデル・重み・バイナリ
+*.bin
+*.pt
+*.ckpt
+*.model
+*.onnx
+*.h5
+*.tar
+*.tar.gz
+*.zip
+
+# IDE/エディタ・設定
+.vscode/
+.idea/
+.DS_Store

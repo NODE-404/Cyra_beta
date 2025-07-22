@@ -1,0 +1,7 @@
+{{ city }}の現在の天気は「{{ weather_desc }}」、気温は約{{ temp }}℃です。
+
+{% if weather_focus %}
+なお、{{ weather_focus }}の兆候も見られるようですので、ご注意ください☔
+{% else %}
+今日も良い一日をお過ごしくださいね☀️
+{% endif %}
