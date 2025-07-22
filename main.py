@@ -27,7 +27,7 @@ from langchain_community.llms import Ollama
 from langchain_core.retrievers import BaseRetriever
 from langchain_core.vectorstores import VectorStore
 
-from backend.retriever.custom_retriever import CustomRetriever
+from retriever.custom_retriever import CustomRetriever
 
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
