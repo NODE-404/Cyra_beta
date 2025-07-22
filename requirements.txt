@@ -1,4 +1,3 @@
-HEAD
 fastapi
 uvicorn
 httpx
@@ -14,20 +13,3 @@ langchain-text-splitters
 google-api-python-client
 google-auth
 google-auth-oauthlib
-
-fastapi
-uvicorn
-httpx
-faiss-cpu
-python-dotenv
-pydantic
-sudachipy
-SudachiDict-core
-langchain
-langchain-community
-langchain-core
-langchain-text-splitters
-google-api-python-client
-google-auth
-google-auth-oauthlib
-
