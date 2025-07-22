@@ -6,6 +6,7 @@ python-dotenv
 pydantic
 sudachipy
 SudachiDict-core
+sentence-transformers
 langchain
 langchain-community
 langchain-core
