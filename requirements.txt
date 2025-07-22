@@ -1,3 +1,4 @@
+HEAD
 fastapi
 uvicorn
 httpx
@@ -13,3 +14,20 @@ langchain-text-splitters
 google-api-python-client
 google-auth
 google-auth-oauthlib
+
+fastapi
+uvicorn
+httpx
+faiss-cpu
+python-dotenv
+pydantic
+sudachipy
+SudachiDict-core
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+google-api-python-client
+google-auth
+google-auth-oauthlib
+ 11bdc30d744f0b977d3f097eb55286a618f9f1e0
